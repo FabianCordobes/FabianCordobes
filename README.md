@@ -1,6 +1,6 @@
 <h1 align="center">Hello everybody! I'm Fabian Cordobe</h1>
 <h3 align="center">A full-stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
+<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aaa6a4ea-c1a3-43f4-a570-7390bfb6c564/dbrebc2-f6299bc0-5695-4fde-a920-b867f5addc5f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2FhYTZhNGVhLWMxYTMtNDNmNC1hNTcwLTczOTBiZmI2YzU2NFwvZGJyZWJjMi1mNjI5OWJjMC01Njk1LTRmZGUtYTkyMC1iODY3ZjVhZGRjNWYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.5ex4qr4gAXjSl63lIR2VYDhKc97OsAZnZ8GuPdQFZGQ" />
 
 
 - 👨‍💻 All of my projects are available in [my Porfolio](https://portfolio-tawny-iota-93.vercel.app//)
@@ -274,8 +274,4 @@
   </a>
 </p>
 
-<p align="center"><img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=nanomarquez&show_icons=true&locale=en&layout=compact" alt="nanomarquez" /></p>
 
-<p align="center">&nbsp;<img align="center"  width="400" src="https://github-readme-stats.vercel.app/api?username=nanomarquez&show_icons=true&locale=en" alt="nanomarquez" /></p>
-
-<p align="center"><img align="center"  width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=nanomarquez&" alt="nanomarquez" /></p>
