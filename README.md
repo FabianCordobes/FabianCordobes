@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fabianarielcordobes@gmail.com**
 
-- 📄 Know about my experiences [>CV<](https://docs.google.com/document/d/195_dg6D0QiJVBsNa7Uc75o3Z9e6eM33BgyI90cLoON4/edit?usp=sharing)
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/195_dg6D0QiJVBsNa7Uc75o3Z9e6eM33BgyI90cLoON4/edit?usp=sharing)
 
 - ⚡I'm interesting in **Full-stack role**
 
